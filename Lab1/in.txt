@@ -1,0 +1,7 @@
+test input
+    This is a testing input File for C plus plus Lab one
+
+
+
+            testing file input and output 
+    tHis iS a CaSe TeSt

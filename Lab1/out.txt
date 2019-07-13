@@ -1,0 +1,23 @@
+Test input
+This is a testing input file for c plus plus lab one
+Testing file input and output 
+This is a case test
+
+Statistics
+number of lines: 7
+number of words: 24
+The largest word in the file is: testing with a size of 7 characters
+Number of occurences of letters regardless of case:
+A:   5    N:   7
+B:   1    O:   3
+C:   2    P:   6
+D:   1    Q:   0
+E:   8    R:   1
+F:   3    S:  11
+G:   2    T:  15
+H:   2    U:   7
+I:  11    V:   0
+J:   0    W:   0
+K:   0    X:   0
+L:   5    Y:   0
+M:   0    Z:   0
